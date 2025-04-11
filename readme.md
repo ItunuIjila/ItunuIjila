@@ -25,6 +25,7 @@ I'm a software engineer with a passion for [What you love].
 ---
 
 ## 📊 GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itunuijila&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="mdazfar2" />
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itunuijila&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itunuijila&layout=compact&theme=radical)
 
