@@ -7,16 +7,10 @@
 # 👋 Hi, I'm Itunu Ijila!
 
 ## 🚀 About Me
-I'm a softwat with a passion for [What you love].  
-Currently learning **[What you're learning]** and building **[What you're building]**.
-
-- 🔭 I’m currently working on: [Cool project]
-- 🌱 I’m currently learning: [Tech you're learning]
-- 👯 I’m looking to collaborate on: [Types of projects]
-- 💬 Ask me about: [Tech, experience, etc.]
-- 📫 How to reach me: [email or social media]
-- 😄 Pronouns: [Your pronouns]
-- ⚡ Fun fact: [Quirky fun fact!]
+I'm a software engineer with a passion for [What you love].  
+🌱 I’m currently learning:  
+  • **Deep Learning** via Coursera's TensorFlow AI Developer Certificate  
+  • Advanced software engineering and machine learning  ]**.
 
 ---
 
