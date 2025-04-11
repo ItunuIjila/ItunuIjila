@@ -1,14 +1,14 @@
 
  <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" 
+  <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzODQ4NDMsIm5iZiI6MTc0NDM4NDU0MywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDExVDE1MTU0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY0ZGQyZDZlOTQ2NWIwYTkzZmRiOTk0ZWUwZjUzOTZiY2ViNjg3ZGU5ZTBmYzMzOWZiYzU4MzEyYWQyY2JlMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-QAeUIUA1YuvqSowDcQC0K1U26eJlPIMriWKmeqel7k" 
        alt="Itunu's waving animation" 
        width="200" 
        style="border-radius: 50%; border: 4px solid #fff;" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Itunu Ijila!</h1>
- 🚀 About Me
-I'm a software engineer with a passion for [What you love].  
+ ## 🚀 About Me
+I'm a software engineer passionate about building beautiful, user-friendly applications and using AI to solve real-world problems..  
 🌱 I’m currently learning:  
   • **Deep Learning** via Coursera's TensorFlow AI Developer Certificate  
   • Advanced software engineering and machine learning  ]**.
