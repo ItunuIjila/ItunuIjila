@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Itunu Ijila!</h1>
-## 🚀 About Me
+ 🚀 About Me
 I'm a software engineer with a passion for [What you love].  
 🌱 I’m currently learning:  
   • **Deep Learning** via Coursera's TensorFlow AI Developer Certificate  
