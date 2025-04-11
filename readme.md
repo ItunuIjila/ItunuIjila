@@ -2,10 +2,11 @@
  <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzODQ4NDMsIm5iZiI6MTc0NDM4NDU0MywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDExVDE1MTU0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY0ZGQyZDZlOTQ2NWIwYTkzZmRiOTk0ZWUwZjUzOTZiY2ViNjg3ZGU5ZTBmYzMzOWZiYzU4MzEyYWQyY2JlMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-QAeUIUA1YuvqSowDcQC0K1U26eJlPIMriWKmeqel7k" 
        alt="Itunu's waving animation" 
-       width="200" 
+       width="40%" 
        style="border-radius: 50%; border: 4px solid #fff;" />
 </p>
 
+<img src = "https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" />
 <h1 align="center">👋 Hi, I'm Itunu Ijila!</h1>
   🚀 About Me: 
 I'm a software engineer passionate about building beautiful, user-friendly applications and using AI to solve real-world problems..  
