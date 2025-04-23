@@ -15,7 +15,7 @@
   🚀 About Me: 
 I'm a software engineer passionate about building beautiful, user-friendly applications and using Artificial Intelligence to solve real-world problems..   </br>
 🌱 I’m currently learning:  
-  • **Deep Learning** via Coursera's TensorFlow AI Developer Certificate  
+  • Deep Learning via Coursera's TensorFlow AI Developer Certificate  
   • Advanced software engineering and machine learning.
 
 ---
