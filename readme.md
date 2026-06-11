@@ -1,54 +1,33 @@
+# Hi, I'm Itunu Ijila 👋
 
- <p align="center">
-  <img src="/coding.gif" 
-       alt="Itunu's waving animation" 
-       width="40%" 
-       style="border-radius: 50%; border: 4px solid #fff;" />
+**AI Engineer building production LLM systems, NLP pipelines, and intelligent automation.**
 
-</p>
+I take AI from concept to deployed product: conversational agents, RAG and agentic workflows, model evaluation pipelines, and the full-stack applications that put them in front of real users. Recent work includes a WhatsApp maternal health assistant serving 1,000+ users and client automations that remove 30+ hours of manual work per month.
 
-<div align="center">
-   <img src = "https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" />
-</div>
+- 🔬 Co-author of a peer-reviewed ML paper in *Machine Learning: Earth* (IOP Publishing, 2026) — [doi:10.1088/3049-4753/ae4c8d](https://doi.org/10.1088/3049-4753/ae4c8d)
+- ✍️ AI columnist at [TheCable](https://www.thecable.ng/can-ai-be-trusted-why-human-oversight-still-matters-in-the-age-of-machine-learning/)
+- 🎤 Keynote speaker, PyData Hull 2026: *Beyond AI Demos: How to Build Production-Ready AI Systems for Real Businesses*
+- 🎓 MSc Artificial Intelligence & Data Science (University of Hull) · Member, British Computer Society (MBCS)
 
-<h1 align="center">👋 Hi, I'm Itunu Ijila!</h1>
-  🚀 About Me: 
-I'm a software engineer passionate about building beautiful, user-friendly applications and using Artificial Intelligence to solve real-world problems..   </br>
-🌱 I’m currently learning:  
-  • Deep Learning via Coursera's TensorFlow AI Developer Certificate  </br> 
-  • Advanced software engineering and machine learning.
+## 🔨 Featured work
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| [OrekaBot](https://orekabot.itunuijila.co.uk/) | Conversational mental health AI with context-aware responses and safety constraints | OpenAI API, React, TypeScript |
+| [EmailInsight](https://emailinsight.streamlit.app/) | NLP summarisation over 500,000+ emails with action item extraction | Python, NLTK, spaCy, Streamlit |
+| [SmartVision](https://smartvision-ai.streamlit.app/) | Real-time object detection and classification | PyTorch, YOLO, OpenCV |
+| [MarketPulse](https://marketpulse-sentiment-analyzer.streamlit.app/) | Social media sentiment analysis for market trends | BERT, Transformers, FastAPI |
+| [Flood-Sentiment-Analysis](https://github.com/ItunuIjila/Flood-Sentiment-Analysis) | Text and image analysis of social media data from historical flooding events | Python, NLP |
 
-## 🧰 My Tech Stack
+## 🧰 Tech stack
 
+**AI/ML:** Python · OpenAI / Gemini / Azure OpenAI APIs · RAG & agentic workflows · NLP (NLTK, spaCy) · PyTorch · scikit-learn · model evaluation
 
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+**Engineering:** TypeScript · React · Node.js · PostgreSQL · Supabase · n8n · Docker · GitHub Actions
 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Itunu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItunuIjila&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItunuIjila&layout=compact&hide_border=true)
 
+## 📫 Connect
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-
-
----
-
-## 📊 GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=Itunuijila&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itunuijila&layout=compact&theme=radical)
-
-
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/itunu-deborah-i-b463b1108/)
-
+[Portfolio](https://itunuijila.co.uk) · [LinkedIn](https://www.linkedin.com/in/itunu-deborah-i-b463b1108/) · ijiladeborah@gmail.com
