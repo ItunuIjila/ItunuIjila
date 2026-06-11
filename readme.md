@@ -38,4 +38,4 @@ I take AI from concept to deployed product: conversational agents, RAG and agent
 
 ## 📫 Connect
 
-[Portfolio](https://itunuijila.co.uk) · [LinkedIn](https://www.linkedin.com/in/itunu-deborah-i-b463b1108/) · ijiladeborah@gmail.com
+[Portfolio](https://itunuijila.co.uk) · [LinkedIn](https://www.linkedin.com/in/itunuijila/) · ijiladeborah@gmail.com
